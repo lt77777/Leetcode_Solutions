@@ -1,2 +1,2 @@
 # leetcode_solutions
-Leetcode Solutions for all
+Leetcode Solutions! Feel free to contribute!
